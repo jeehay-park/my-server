@@ -1,0 +1,22 @@
+{
+    "header": {
+        "trId": "020015",
+        "rtnCode": "000000",
+        "rtnMessage": "성공입니다."
+    },
+    "body": {
+        "configType": "PROFILE",
+        "profileConfig": {
+            "profId": 1,
+            "profName": "profile-profName",
+            "description": "profile-desc",
+            "profType": "profile-profType",
+            "version": "profile-version",
+            "ctntData": "profile--ctntData",
+            "dataHash": "profile-dataHash",
+            "createdAt": "profile--createdAt"
+        },
+        "keyIssueConfig": null,
+        "scriptConfig": null
+    }
+}
